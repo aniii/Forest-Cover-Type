@@ -1,3 +1,4 @@
+The goal of this project is to develop a custom logistic regression algorithm for predicting forest cover types.
 The data set is the Covertype Data Set retrieved from the UCI Databse Repository. It is a multivariate data with categorical and integer data. the dataset consists of 581012 rows and 54 columns. The goal of this study is to predict forest cover type from cartographic variables only, without using remotely sensed data. The study area consists of four wilderness areas located in the Roosevelt National Forest of northern Colorado, representing forests with minimal human-caused disturbances.
 
 The independent variables in the dataset were derived from US Geological Survey (USGS) and US Forest Service (USFS) data and contain binary (0 or 1) columns of data for qualitative independent variables, such as wilderness areas and soil types. The actual forest cover type for each observation (30 x 30 meter cell) was determined from USFS Region 2 Resource Information System (RIS) data.
@@ -17,3 +18,4 @@ However, it is important to note that achieving such a high accuracy may be chal
 Team work: Ananya Das Manolyl, Delaney Grace Helgeson, Aniket Dhirajkumar Divya Bharthi
 
 Source : https://archive.ics.uci.edu/ml/datasets/Covertype
+P.S: Done as Academic project
